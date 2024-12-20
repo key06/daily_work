@@ -1,5 +1,6 @@
 # 日报生成工具
 一款基于python编写的日报生成工具，自定义日常工作内容进行随机抽取生成。
+详情见:https://mp.weixin.qq.com/s/9Un18oIAHGdJ5iZjN3p2fg?token=1076841290&lang=zh_CN
 
 运行软件生成配置文件，对如下内容进行修改，填入自己日常工作的内容，每个group下随机抽取3条进行生成。
 
